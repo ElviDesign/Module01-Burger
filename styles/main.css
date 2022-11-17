@@ -106,7 +106,7 @@ body {
 .breadcrumbs li:first-child a::before {
   display: none;
 }
-.title {
+.tittle {
   font-weight: 700;
   font-size: 79px;
   margin-top: 10px;
