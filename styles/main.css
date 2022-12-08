@@ -232,5 +232,5 @@ overflow: hidden;
   object-fit: cover;
 }
 .menu-grid-text {
-text-align: center;
+  align-items: center;
 }
